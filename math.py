@@ -1,6 +1,6 @@
 #add function
 def add(x,y):
-	x+y
+	return x+y
 
 #div function
 def div(x,y):
@@ -9,3 +9,6 @@ def div(x,y):
 	else
 		return x/y
 
+#sub function
+def sub(x,y):
+	return x-y
